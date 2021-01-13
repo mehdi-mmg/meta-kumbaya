@@ -1,0 +1,15 @@
+IMAGE_INSTALL += " \
+    tzdata \
+    tzdata-misc \
+    tzdata-posix \
+    tzdata-right \
+    tzdata-africa \
+    tzdata-americas \
+    tzdata-antarctica \
+    tzdata-arctic \
+    tzdata-asia \
+    tzdata-atlantic \
+    tzdata-australia \
+    tzdata-europe \
+    tzdata-pacific \
+    "
