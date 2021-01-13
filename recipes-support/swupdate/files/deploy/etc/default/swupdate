@@ -1,0 +1,2 @@
+
+SWUPDATE_EXTRA_ARGS='-K /etc/swu_files/aes_key_iv.txt -k /etc/swu_files/rsa_public.pem'
